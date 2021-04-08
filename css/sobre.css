@@ -1,0 +1,67 @@
+.body-sobre {
+    color:#333333;
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width:940px;
+}
+
+.titulo-pag {
+    background-image: url(../img/sobre-background.jpg);
+    padding:10px;
+}
+
+h2 {
+    border-bottom:2px solid #333333;
+    margin-top:30px;
+}
+
+figure {
+    background-color:#F2EDED;
+    border:1px solid #ccc;
+    text-align: center; 
+    padding:15px;
+    margin:30px;
+}
+figcaption {
+    font-style: italic;
+    margin-top:10px;
+ }
+
+ p {
+     padding:10px;
+     text-indent:20px;
+ }
+
+ #centro-distribuicao{
+
+    margin-left: auto;
+    margin-right: auto;
+    width:550px;
+    
+}
+
+ footer{
+    color:#777;
+    margin:30px0;
+    padding:30px0;
+ }
+
+ footer img{
+    margin-right:30px;
+    vertical-align: middle;
+    width:94px;
+ }
+
+ #familia-pelho{
+    float: right;
+    margin:00 10px 10px;
+ }
+
+ p::first-letter{
+     font-weight: bold;
+ }
+ header{
+     position: relative;
+ }
